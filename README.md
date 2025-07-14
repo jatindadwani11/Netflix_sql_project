@@ -1,4 +1,4 @@
-# 🎬 Netflix Data Analysis Using SQL (PostgreSQL)
+# 🎬 Netflix Data Analysis Using SQL
 
 ![Netflix Logo](https://github.com/jatindadwani11/Netflix_sql_project/blob/main/logo.jpg)
 
